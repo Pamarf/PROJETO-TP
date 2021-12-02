@@ -1,0 +1,60 @@
+
+body {
+  background-color: black;
+  font-family: 
+  padding: 5px 25px;
+  font-size: 20px;
+  margin: 0;
+  color: #444;
+}
+
+.nome{
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: "Bitter", Bitter;
+   font-size: 30px;
+   
+}
+
+.pamela {
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: "Open Sans", sans-serif;
+   font-size: 25px;;
+}
+
+.curso {
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: "Bitter", Bitter;
+   font-size: 30px;;
+}
+
+.analise {
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: "Open Sans", sans-serif;
+   font-size: 25px;;
+}
+
+
+.area {
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: "Bitter", Bitter;
+   font-size: 30px;;
+}
+
+.desenvolvimento{
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: "Open Sans", sans-serif;
+   font-size: 25px;;
+}
+
